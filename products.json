@@ -1,0 +1,127 @@
+{
+  "initialProducts": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Холодильник Samsung RB37",
+      "description": "Двухкамерный холодильник с системой No Frost, объём 367 л, класс энергопотребления A++, инверторный компрессор",
+      "price": 45999,
+      "image": "fridge1.jpg",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "Холодильник LG GA-B459",
+      "description": "Энергоэффективный холодильник с инверторным компрессор, объём 454 л, система Total No Frost, линейный компрессор",
+      "price": 52999,
+      "image": "fridge2.jpg",
+      "stock": 7
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "Пылесос Dyson V11",
+      "description": "Беспроводной пылесос с продвинутой системой фильтрации, время работы до 60 минут, насадки в комплекте",
+      "price": 39999,
+      "image": "vacuum1.jpg",
+      "stock": 15
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Пылесос Samsung Jet 90",
+      "description": "Мощный пылесос с турбощёткой, система циклонной фильтрации, аккумуляторная батарея",
+      "price": 29999,
+      "image": "vacuum2.jpg",
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "categoryId": 3,
+      "name": "Телевизор LG OLED 55\"",
+      "description": "OLED телевизор с поддержкой 4K HDR, технология AI ThinQ, встроенные стриминговые сервисы",
+      "price": 89999,
+      "image": "tv1.jpg",
+      "stock": 5
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "name": "Телевизор Samsung QLED 65\"",
+      "description": "QLED телевизор с технологией Quantum Dot, разрешение 4K, Smart TV, игровой режим",
+      "price": 109999,
+      "image": "tv2.jpg",
+      "stock": 3
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "name": "Стиральная машина Bosch",
+      "description": "Стиральная машина с загрузкой 7 кг и прямым приводом, класс энергопотребления A+++, 1400 об/мин",
+      "price": 34999,
+      "image": "washer1.jpg",
+      "stock": 8
+    },
+    {
+      "id": 8,
+      "categoryId": 4,
+      "name": "Стиральная машина LG F2J3",
+      "description": "Стиральная машина с парогом и сушкой, загрузка 9 кг, технология Direct Drive, Smart Diagnosis",
+      "price": 54999,
+      "image": "washer2.jpg",
+      "stock": 6
+    },
+    {
+      "id": 9,
+      "categoryId": 5,
+      "name": "Микроволновка Panasonic",
+      "description": "Микроволновая печь с грилем, объём 27 л, мощность 900 Вт, 5 уровней мощности",
+      "price": 12999,
+      "image": "microwave1.jpg",
+      "stock": 20
+    },
+    {
+      "id": 10,
+      "categoryId": 6,
+      "name": "Кофемашина DeLonghi",
+      "description": "Автоматическая кофемашина с капучинатором, 13 степеней помола, система Cappuccino",
+      "price": 42999,
+      "image": "coffee1.jpg",
+      "stock": 9
+    }
+  ],
+  
+  "initialCategories": [
+    {
+      "id": 1,
+      "name": "Холодильники",
+      "icon": "snowflake"
+    },
+    {
+      "id": 2,
+      "name": "Пылесосы",
+      "icon": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Телевизоры",
+      "icon": "tv"
+    },
+    {
+      "id": 4,
+      "name": "Стиральные машины",
+      "icon": "tshirt"
+    },
+    {
+      "id": 5,
+      "name": "Микроволновки",
+      "icon": "temperature-high"
+    },
+    {
+      "id": 6,
+      "name": "Кофемашины",
+      "icon": "coffee"
+    }
+  ]
+}
